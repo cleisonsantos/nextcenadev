@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+    height: 100px;
+}
+.header nav {
+    
+}
+
+.header ul {
+    display: inline;
+}
+
+.header ul li {
+    display: inline;
+}
+.header li a{
+    padding: 10px 10px;
+    color: black;
+}
+.header li a:hover{
+    border-bottom: 3px solid cadetblue;
+    
+    transform: border-buttom linear .1s;
+    
+}
