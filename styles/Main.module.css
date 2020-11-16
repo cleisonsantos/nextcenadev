@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background-image: linear-gradient( aquamarine,#00c8d4);
+    
+    min-height: 90vh;
+    padding: 3rem;
+}
+.main h1 {
+    color: #444;
+    font-size: 3rem;
+    text-align: center;
+}

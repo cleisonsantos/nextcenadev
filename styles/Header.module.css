@@ -3,7 +3,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: aquamarine;
-    height: 100px;
+    height: 10vh;
 }
 .header nav {
     
@@ -18,11 +18,11 @@
 }
 .header li a{
     padding: 10px 10px;
-    color: black;
+    font-weight: bold;
+    
 }
 .header li a:hover{
-    border-bottom: 3px solid cadetblue;
-    
+    border-bottom: 3px solid #1746b8;
     transform: border-buttom linear .1s;
     
 }
