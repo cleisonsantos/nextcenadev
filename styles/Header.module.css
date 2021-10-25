@@ -2,11 +2,12 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: aquamarine;
     height: 10vh;
+    background: transparent;
+    position: relative;
 }
 .header nav {
-    
+    background: transparent;
 }
 
 .header ul {
@@ -19,10 +20,12 @@
 .header li a{
     padding: 10px 10px;
     font-weight: bold;
+    cursor: pointer;
     
 }
 .header li a:hover{
-    border-bottom: 3px solid #1746b8;
+    color: mediumturquoise;
+    border-bottom: 3px solid mediumturquoise;
     transform: border-buttom linear .1s;
     
 }

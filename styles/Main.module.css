@@ -4,7 +4,11 @@
     align-items: center;
     flex-direction: column;
 
-    background-image: linear-gradient( aquamarine,#00c8d4);
+    /* background-image: linear-gradient( aquamarine,#00c8d4); */
+    /* background-image: url(../public/fundocenadev.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* filter: brightness(.7); */
     
     min-height: 90vh;
     padding: 3rem;

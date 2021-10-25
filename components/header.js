@@ -34,6 +34,11 @@ export default function Header() {
                             Sobre
                         </a>
                     </li>
+                    <li>
+                        <a>
+                            Blog
+                        </a>
+                    </li>
                 </ul>
             </nav>
         </div>

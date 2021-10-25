@@ -1,0 +1,69 @@
+.pri {
+    background-color: cornflowerblue;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .pri:hover {
+    background-color: rgb(80, 130, 223);
+  }
+  
+.sec {
+    background-color: silver ;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .sec:hover {
+    background-color: darkgrey;
+  }
+
+  .suc {
+    background-color: mediumseagreen;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .suc:hover {
+    background-color: seagreen;
+  }
+
+  .dan {
+    background-color: salmon;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .dan:hover {
+    background-color: tomato;
+  }
+
+  .war {
+    background-color: gold;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .war:hover {
+    background-color: goldenrod;
+  }
+
+  .inf {
+    background-color: mediumturquoise;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .inf:hover {
+    background-color: cadetblue;
+  }
+  
+  .inf {
+    background-color: mediumturquoise;
+    padding: .75rem;
+    border-radius: .5rem;
+    font-weight: bold;
+  }
+  .inf:hover {
+    background-color: cadetblue;
+  }
